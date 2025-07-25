@@ -8,7 +8,7 @@ A session-based chatbot built with the MERN stack.
 - **Database:** MongoDB with Mongoose
 
 ## 🚀 How to Run
-
+### 0. first change both package_frontend and backend files name to package.json and put them in their respective folders according to the file structure which is provided at the end of the readme file
 ### 1. Backend
 ```bash
 cd backend
